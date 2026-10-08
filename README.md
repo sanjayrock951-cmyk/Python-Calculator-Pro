@@ -43,3 +43,7 @@ Python-Calculator-Pro/
 ### Sanjay Kushwaha
 
 **B.Tech – Information Technology**
+
+## 📸 Project Screenshot
+
+![Python Calculator Pro](Screenshot%202026-10-08%20140933.png)
